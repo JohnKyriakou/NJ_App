@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NJ</string>
+    <string name="Button">Connect</string>
+    <string name="share" />
+    <string name="please_insert_ip">Please insert ip</string>
+    <string name="enter_text" />
+
+</resources>
